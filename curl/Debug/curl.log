@@ -1,0 +1,2 @@
+﻿  simple.c
+LINK : fatal error LNK1104: cannot open file 'C:\dev\curl-7.39.0\lib\Debug\curllib.lib'
